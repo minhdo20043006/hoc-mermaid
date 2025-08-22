@@ -1,10 +1,10 @@
 ```mermaid
-sequenceDiagram
+message lost
 Alice->>+John: Xin chào John
 John-->>-Alice: Chào Alice
 ```
 ```mermaid
-sequenceDiagram
+message lost
 User->>System: Login
 alt Đăng nhập thành công
 System-->>User: Welcome
